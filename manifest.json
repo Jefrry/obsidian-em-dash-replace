@@ -1,0 +1,10 @@
+{
+	"id": "em-dash-replace",
+	"name": "Em Dash Replace",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin replaces double dashes with em dashes in Obsidian",
+	"author": "Egor Ilin",
+	"authorUrl": "https://github.com/jefrry",
+	"isDesktopOnly": false
+}
