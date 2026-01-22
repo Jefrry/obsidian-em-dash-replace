@@ -1,7 +1,7 @@
 {
 	"id": "em-dash-replace",
 	"name": "Em Dash Replace",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Replaces double dashes with em dashes in real time.",
 	"author": "Egor Ilin",

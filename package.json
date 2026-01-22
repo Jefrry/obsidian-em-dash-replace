@@ -1,6 +1,6 @@
 {
 	"name": "em-dash-replace",
-	"version": "1.0.0",
+	"version": "1.0.2",
 	"description": "This plugin replaces double dashes with em dashes in Obsidian",
 	"main": "main.js",
 	"type": "module",

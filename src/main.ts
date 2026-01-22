@@ -1,7 +1,7 @@
 import { Plugin, Editor } from 'obsidian'; 
 
 export default class EmDashReplacePlugin extends Plugin {
-    async onload() {
+    onload() {
         this.registerEvent(
             this.app.workspace.on('editor-change', (editor: Editor) => {
                 const cursor = editor.getCursor();
